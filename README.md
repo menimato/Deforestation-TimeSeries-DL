@@ -1,4 +1,4 @@
-# Deforestation Detection in Cerrado with Deep Learning and Image Time Series
+# Method for Mapping Deforestation in Cerrado Based on Deep Learning Using Landsat and Sentinel Image Time Series
 
 Jupyter Notebooks for the combination of LSTM and U-Net for the detection of deforestation in Cerrado, using Sentinel or Landsat image time series obtained from Brazil Data Cube.
 
